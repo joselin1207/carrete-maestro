@@ -1,0 +1,6 @@
+Carrete Maestro PWA
+
+Sube los 5 archivos (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png) a la raíz del repositorio GitHub carrete-maestro. NO subas solo el ZIP.
+En Settings > Pages > Build and deployment > Deploy from a branch, elige main y /(root), Save.
+Visita https://TUUSUARIO.github.io/carrete-maestro/ desde Chrome móvil y elige Instalar aplicación o Añadir a pantalla de inicio.
+Las fotografías se procesan localmente.
